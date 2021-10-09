@@ -46,7 +46,7 @@
 WordPress を用いたブランディングサイトの構築
 
 - 内容
-  - WordPress を用いた Web サービス開発
+  - WordPress を用いた Web サイト開発
   - GSAP を用いたアニメーションの実装
 
 ### その他の経歴
