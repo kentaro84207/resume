@@ -82,7 +82,7 @@ WordPress を用いたブランディングサイトの構築
   - 管理サイト / ユーザーサイト
   - デザイン / 機能 / 実装
   - Next.js / Vercel / Ruby on Rails / Heroku
-- 映画検索ツール（2019）
-  - https://stupefied-kepler-1b9b33.netlify.app/
-  - 映画の概要 / ポスター /レーティングを検索できるツール
-  - Nuxt.js / Vuetify / TMDb API
+
+## 資格
+- TOEIC 855 (2017/05)
+- 機械製図CAD作業 2級 （2016）
