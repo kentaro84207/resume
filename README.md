@@ -12,14 +12,14 @@
 
 - 業務で利用経験有り
   - HTML5 / CSS3 / SCSS / GSAP
-  - JavaScript / TypeScript / React
+  - JavaScript / TypeScript / React / Vue.js
   - Ruby / Ruby on Rails
   - AWS / GCP
   - WordPress
   - XD
 - 個人で利用
-  - React.js / Next.js
-  - Vue.js / Nuxt.js
+  - Next.js
+  - Nuxt.js
   - Firabase
 
 ## 職務経歴
@@ -53,7 +53,7 @@ WordPress を用いたブランディングサイトの構築
 
 ソフトウェアエンジニア以外の経歴
 
-- 製造業（実家が営んでいる）
+- 製造業（家業）
   - 2016/4 - 2018/3
   - 製品開発
   - CAD を用いた機械設計
