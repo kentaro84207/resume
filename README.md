@@ -11,12 +11,13 @@
 ## スキル
 
 - 業務で利用経験有り
-  - HTML5 / CSS3 / SCSS / GSAP
   - JavaScript / TypeScript / React
   - Next.js
   - Ruby / Ruby on Rails
-  - AWS / GCP
+  - AWS
+  - HTML5 / CSS3
   - WordPress
+  - Figma
   - XD
 - 個人で利用
   - Nuxt.js
