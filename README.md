@@ -3,22 +3,22 @@
 ## 開発経験
 
 - Ruby on Rails を用いた Web アプリケーション開発
+- Next.js / NestJS を用いた SaaS 開発
 - WordPress を用いたブランディングサイトの構築
 - GA / Google Optimize を用いた計測・分析・A/B テスト
 - Next.js / Ruby on Rails（API サーバー） を用いた Web アプリケーション開発（個人）
-- チーム開発・デイリースクラムの進行役
 
 ## スキル
 
 - 業務で利用経験有り
   - HTML5 / CSS3 / SCSS / GSAP
-  - JavaScript / TypeScript / React / Vue.js
+  - JavaScript / TypeScript / React
+  - Next.js
   - Ruby / Ruby on Rails
   - AWS / GCP
   - WordPress
   - XD
 - 個人で利用
-  - Next.js
   - Nuxt.js
   - Firabase
 
@@ -36,6 +36,7 @@
   - Ruby on Rails を用いた Web サービス開発
   - CSS 設計
   - メール認証機能の構築
+  - Figma を用いたデザインシステムの整備
 - その他
   - KPT を用いたチームビルディング
   - デイリースクラムの進行役
