@@ -1,6 +1,8 @@
 # Resume
 
-## 開発経験
+## 要約
+
+### 開発経験
 
 - Ruby on Rails を用いた Web アプリケーション開発
 - Next.js / NestJS を用いた SaaS 開発
@@ -8,7 +10,7 @@
 - GA / Google Optimize を用いた計測・分析・A/B テスト
 - Next.js / Ruby on Rails（API サーバー） を用いた Web アプリケーション開発（個人）
 
-## スキル
+### スキル
 
 - 業務で利用経験有り
   - JavaScript / TypeScript / React
@@ -25,17 +27,21 @@
 
 ## 職務経歴
 
-### 製造業SaaS開発（副業、2022/02 - 現在）
+### 製造業SaaS（業務委託、2022/02 - 現在）
 
-製造業SaaS開発（Next.js / NestJS）
+#### 製造業SaaSの開発
 
+- 利用技術
+  - React, TypeScript, Next.js, NestJS
 - 内容
-  - Next.jsを用いたSaaSのフロントエンド開発
+  - Next.js / TypeScript を⽤い、SaaSのフロントエンド開発を担当。
 
 ### 株式会社すむたす（2019/01 - 現在）
 
-不動産査定サイト・ポータルサイトの開発、オウンドメディアの開発
+#### 不動産査定サイト・ポータルサイトの開発、オウンドメディアの開発
 
+- 利用技術
+  - Ruby on Rails, AWS, TypeScript, React
 - 開発体制
   - 3-5 人でのスクラム開発
   - リモート開発
@@ -45,6 +51,7 @@
   - CSS 設計
   - メール認証機能の構築
   - Figma を用いたデザインシステムの整備
+  - GA / Google Optimize を⽤いた計測・分析・A/B テスト
 - その他
   - KPT を用いたチームビルディング
   - デイリースクラムの進行役
@@ -52,8 +59,10 @@
 
 ### Web 制作会社（2018/04 - 2018/12）
 
-WordPress を用いたブランディングサイトの構築
+#### ブランディングサイトの構築
 
+- 利用技術
+  - JavaScript, Vue.js, WordPress
 - 内容
   - WordPress を用いた Web サイト開発
   - GSAP を用いたアニメーションの実装
